@@ -117,3 +117,4 @@ Some examples implemented in the project:
 * Sellers that are also suppliers
 * Product total values in orders
 
+![DER](Ecommerce.png)
